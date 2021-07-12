@@ -1,10 +1,1 @@
-# event-handle-server
-# event-handle-server
-# event-handle-server
-# server-event
-# server-event
-# event-maker-handle-server
-# event-maker-handle-server
-# event-server
-# event-server
-# event-server
+server side code
